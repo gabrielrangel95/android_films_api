@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/93a4f096aa595b8c2db52b9c647a12694bac4948/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6910fadc4264509e0479b4bbd10fd9948b26b0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/RestaurantApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_753753c390cdae68837eba7df6c2e6c540999eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/RestaurantApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c99c5b991d7c102b04639d7c0cf9508496881f4">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df9af1e5377ebd888a133a86a3a6d52bf847e951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/eb74fad25d56851c5f6b015d5532c15b46c4f397/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf9b5fe34a12f88bfc111d0d53e8cb64e798a8f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/fc865aecd8fc9163fca8515220ebf798f5a818c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47532ba4930432cdc6fca2d36162314e6fd539ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/a86ed70cff2ed81d799628b579fd8bbbddd3254c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c6800cdb86527b93a0993045d04d4f9f21f608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/8ed422b863c8f6871b0cc3ef318e1fa36360f91f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4479349b10ab0b696fbd6567d3a790879acb2323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/0ebc2d43c7806d0315329536d3b6e7bf981e1662/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_950b7d274caf1a6fdc20632274a1a9ddecda8f3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/c4517fffb56505f9461765610e0dc59264f53cbd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39044781ae6c953598920918c58567a972cc61e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ea254919384348eb849c60b5dda24520b428234b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/5774f56a548a1f113319da27c267fa66ce520420/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7455c50c52fb51fcc4df59ef097b27c4d267dfb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/f8368f3594e915d11fa12b255e133f802a432060/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_989490ef8874cbff707e547199b2d4356fcafb1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/ec6475019c083f06c80e1f88ae1aaab16206c931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a89f0347b2bbae89aec8e582119dda795ffbfc13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/ae5964f5666492816c6420d6cba0b12d64f3988a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30d3b77e0304af01d050df42fa84ff23a4c05972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/30b8c125e3a9776950e2f0918302b245cc512753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_200dd0e0b39c21174faf6074db6383c7be65dc12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0b0dcc7f2177ca2c3e6a8aab262ba7fef55866f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/cc4c14af81fe01e7d9d8b5ec47cb484fc9f5da52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df76a97e9df74bb976505686fb6933b517935a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_eae17f5b0acdd187848c5a6122dc70f02b23fac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/77c00f27681f77610d4d4f65e4592973390e3aec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a574ee8100cf08e9a3639912aab2c3b746fdcfcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gabriel/.android/build-cache/0b5f39cbcbf525a38deb6f477d44af19886a7449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/Users/gabriel/RestaurantApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc9659b27018cb124282a9319d23460ba1c80e1e/classes.dex" />
+    </item>
+
+</items>
